@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    min-height: 2000px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(255, 255, 255);
+}
+
+section {
+    padding-top: 5rem;
+}
+
+h2 {
+    font: bold;
+    font-weight: 900;
+}
