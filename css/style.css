@@ -7,7 +7,6 @@ body {
 }
 .jumbotron {
     padding-top: 6rem;
-    background-color: rgb(255, 255, 255);
 }
 
 section {
@@ -17,4 +16,8 @@ section {
 h2 {
     font: bold;
     font-weight: 900;
+}
+
+span {
+    color: #ffc400;
 }
